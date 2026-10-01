@@ -3,15 +3,15 @@
   "version": "1.0",
   "users": [
     {
-      "machine_id": "SG68152",
+      "machine_id": "SG68132",
       "active": true
     },
     {
-      "machine_id": "SG68152",
+      "machine_id": "SG68178",
       "active": true
     },
     {
-      "machine_id": "SG68152",
+      "machine_id": "SG68752",
       "active": false
     }
   ]
